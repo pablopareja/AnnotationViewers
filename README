@@ -1,0 +1,9 @@
+'AnnotationViewers' is an AIR project including applications dealing with Gene annotation results.
+
+Right now there is just one applications:
+
+- GeneAnnotationViewer:
+Predicted gene/rnas results can be seen grouped by contigs, status (dismissed,selected minor threshold, selected) apart
+from features like selective searching and user-friendly navigation along contiguous gene/rnas.
+
+.exe files for installing each application can be found on 'releases' top-level folder.
